@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AutomationTestingPOCSuite" verbose="1">
+
+    <test name="BasicAssertions">
+        <classes>
+            <class name="com.poc.tests.BasicAssertionsTest"/>
+        </classes>
+    </test>
+
+    <test name="RestaurantSearch">
+        <classes>
+            <class name="com.poc.tests.RestaurantSearchTest"/>
+        </classes>
+    </test>
+
+</suite>
